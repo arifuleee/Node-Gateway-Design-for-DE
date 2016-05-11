@@ -1,5 +1,6 @@
 # Node-Gateway-Design-for-DE
-Design a basic sensor node and gateway
+Design a basic sensor node and gateway,
+
 Hardware used for RFID node:
 1. arduino nano
 2. NRF24L01 radio
