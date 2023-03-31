@@ -1,5 +1,5 @@
 
-/** RF24Mesh_Example.ino by TMRh20
+/** RF24Mesh_Example.ino by Ariful Islam
  *
  * This example sketch shows how to manually configure a node via RF24Mesh, and send data to the
  * master node.
